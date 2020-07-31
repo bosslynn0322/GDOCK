@@ -84,3 +84,5 @@ jobs:
       with:
         name: G-DOCK
         path: ./lede/bin
+  watch:
+    types: started
